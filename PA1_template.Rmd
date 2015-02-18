@@ -2,7 +2,9 @@
 title: "PA1.Rmd"
 author: "Jeremiah M. Faries"
 date: "Saturday, February 07, 2015"
-output: html_document
+output:
+  html_document:
+    keep_md: yes
 ---
 setwd("D:/DATA SCIENCE/REPRODUCIBLE DATA")
 
